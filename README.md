@@ -1,16 +1,34 @@
-### Hi there 👋
+## 질문을 받을 수 있는 개발자
 
-<!--
-**YoonSuHyeon/YoonSuHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💬 질문을 통해 성장속도 향상**  
+**🖥 대답을 할 수 있는 능력**  
+**😄 좋은 사람**
 
-Here are some ideas to get you started:
+새로운 경험과 언어 두려워 하지 않습니다. 이 사람이 잘 할 수 있을까?  맡겨만 주세요! <br>
+궁금증이 많고 스스로를 테스트하는 성격입니다. 그리고 사람들과 이야기 나누는 것을 좋아합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+제 강점이 궁금한 사람은 [여기를 클릭하세요](https://chipped-year-ef5.notion.site/79877d51a75f4bc3b66b46fb0e794200?pvs=4)
+
+대답할 수 있는 능력을 키우기 위해서는 학습, 질문, 대화가 필요합니다.<br>
+저와 같이 성장하실 분은 연락주세요. 🧲 96-05-03@naver.com
+### 기술
+
+- 서비스 경험
+  - Java, Spring, Maven, MySQL, Redis, MyBatis, Git, Jenkins, Eclipse
+
+- 사용 경험
+  - Kotlin, C/C++, Android Studio, IntelliJ
+
+### 경력
+
+- 에이스 프로젝트 (2021.01 ~ 2023.05) - 서버 개발팀 (팀원)
+  - MLB 야구 매니지먼트 모바일 게임 (2021.03.01 ~ 2023.05.17) [자세히](https://chipped-year-ef5.notion.site/MLB-9-GM-0dd8db8f98074690bfa6de2f716e1dd2?pvs=4)
+      
+### 프로젝트
+- 스마트한 약 알리미 앱 (2020.04 ~ 2020.07)
+  
+- 홈 IoT 환경 구축 (2020.04 ~ 2020.07)
+
+### 스터디
+- Effective Java 스터디 (2022.03 ~ 2022.07)
+- 알고리즘 스터디 (2023.06 ~ 2023.07)
