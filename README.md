@@ -14,10 +14,14 @@
 ### 기술
 
 - 서비스 경험
-  - Java, Spring, Maven, MySQL, Redis, MyBatis, Git, Jenkins, Eclipse
+  - Java, Kotlin, JavaScript
+  - MySQL, Redis, MyBatis, Spring Data JPA, Spring Data R2DBC
+  - Spring, Spring Boot, Spring Web MVC, Spring Webflux, Spring Security
+  - Maven, Gradle, Git, Jenkins, Eclipse, IntelliJ
+  - Junit4, Kotest
 
 - 사용 경험
-  - Kotlin, C/C++, Android Studio, IntelliJ
+  - C/C++, Android Studio
 
 ### 경력
 
